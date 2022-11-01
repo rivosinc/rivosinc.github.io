@@ -6,4 +6,4 @@ See more at our [homepage.](https://www.rivosinc.com)
 
 Salus documentation:
 
-[Salus](http://stillson.github.io/salus/salus)
+[Salus](http://rivosinc.github.io/salus/salus)
